@@ -11,5 +11,6 @@ remoto"
 ##### Además se puede ver el estado de funcionamiento de estas estaciones (Correcto, sin respuesta, error) y sus sensores.
 
 ##### Contiene también un módulo de gestión para modificar de manera remota los parámetros de configuración de las estaciones.
+#
 
 ###### La Base de Datos contiene datos de prueba para la Estación FICH en el período 20/10/2016 - 22/10/2016

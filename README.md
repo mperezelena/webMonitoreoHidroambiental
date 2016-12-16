@@ -12,5 +12,14 @@ remoto"
 
 ##### Contiene también un módulo de gestión para modificar de manera remota los parámetros de configuración de las estaciones.
 #
+#### Usuario con privilegios de administrador
+##### Nombre: admin
+##### Clave: 1234
+#
+
+#### Usuario invitado
+##### Nombre: invitado
+##### Clave: 123
+#
 
 ###### La Base de Datos contiene datos de prueba para la Estación FICH en el período 20/10/2016 - 22/10/2016

@@ -172,7 +172,7 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`id`, `nombre`, `clave`, `id_nivel`) VALUES
-(1, 'mariana', '123', 1),
+(1, 'admin', '1234', 1),
 (2, 'invitado', '123', 2);
 
 -- --------------------------------------------------------
